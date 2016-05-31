@@ -1,3 +1,3 @@
-# IMT4904_Msc_Presentation
+# IMT4904 Msc Presentation
 
 Repository for Master thesis presentation Spring 2016 at NTNU Gjøvik
